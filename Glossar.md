@@ -9,3 +9,7 @@
 ## Institution
 
 *Institution* bezeichnet im verfassungsrechtlichen Sinne eine durch die Verfassung oder auf ihrer Grundlage eingerichtete staatliche Einrichtung oder rechtlich verankerte Ordnung, deren Aufgaben, Zuständigkeiten, Befugnisse und Grenzen rechtlich geregelt sind.
+
+## Strafrecht
+
+*Strafrecht* bezeichnet die Gesamtheit der Rechtsnormen, die festlegen, welche Handlungen oder Unterlassungen strafbar sind, unter welchen Voraussetzungen eine strafrechtliche Verantwortlichkeit besteht und welche Strafen oder sonstigen strafrechtlichen Rechtsfolgen verhängt werden können.
