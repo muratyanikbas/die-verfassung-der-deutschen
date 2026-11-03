@@ -13,3 +13,7 @@
 ## Strafrecht
 
 *Strafrecht* bezeichnet die Gesamtheit der Rechtsnormen, die festlegen, welche Handlungen oder Unterlassungen strafbar sind, unter welchen Voraussetzungen eine strafrechtliche Verantwortlichkeit besteht und welche Strafen oder sonstigen strafrechtlichen Rechtsfolgen verhängt werden können.
+
+## Rat
+
+Ein *Rat* ist ein Gremium, in dem mehrere Personen zusammenkommen, um über bestimmte Angelegenheiten zu beraten, Entscheidungen zu treffen oder Empfehlungen auszusprechen.
