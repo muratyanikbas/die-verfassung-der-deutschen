@@ -21,3 +21,7 @@ Ein *Rat* ist ein Gremium, in dem mehrere Personen zusammenkommen, um über best
 ## Ausfertigung
 
 *Ausfertigung* bezeichnet im juristischen Sprachgebrauch die förmliche Bestätigung und Herstellung einer rechtsverbindlichen Fassung eines Dokuments, insbesondere eines Gesetzes oder einer Urkunde.
+
+## Freiheitsrechte
+
+*Freiheitsrechte* sind grundlegende Rechte des Menschen, die seine individuelle Freiheit schützen und ihm ermöglichen, sein Leben selbstbestimmt zu gestalten, ohne ungerechtfertigte Eingriffe durch den Staat.
