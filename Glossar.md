@@ -17,3 +17,7 @@
 ## Rat
 
 Ein *Rat* ist ein Gremium, in dem mehrere Personen zusammenkommen, um über bestimmte Angelegenheiten zu beraten, Entscheidungen zu treffen oder Empfehlungen auszusprechen.
+
+## Ausfertigung
+
+*Ausfertigung* bezeichnet im juristischen Sprachgebrauch die förmliche Bestätigung und Herstellung einer rechtsverbindlichen Fassung eines Dokuments, insbesondere eines Gesetzes oder einer Urkunde.
