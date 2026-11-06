@@ -25,3 +25,7 @@ Ein *Rat* ist ein Gremium, in dem mehrere Personen zusammenkommen, um über best
 ## Freiheitsrechte
 
 *Freiheitsrechte* sind grundlegende Rechte des Menschen, die seine individuelle Freiheit schützen und ihm ermöglichen, sein Leben selbstbestimmt zu gestalten, ohne ungerechtfertigte Eingriffe durch den Staat.
+
+## Hoheitszeichen
+
+*Hoheitszeichen* sind staatliche Symbole, die die Identität, Souveränität und staatliche Autorität eines Staates zum Ausdruck bringen und ihn nach innen und außen repräsentieren.
