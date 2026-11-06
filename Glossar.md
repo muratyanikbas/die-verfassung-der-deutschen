@@ -29,3 +29,11 @@ Ein *Rat* ist ein Gremium, in dem mehrere Personen zusammenkommen, um über best
 ## Hoheitszeichen
 
 *Hoheitszeichen* sind staatliche Symbole, die die Identität, Souveränität und staatliche Autorität eines Staates zum Ausdruck bringen und ihn nach innen und außen repräsentieren.
+
+## Volksabstimmung
+
+Eine *Volksabstimmung* ist ein Verfahren der direkten Demokratie, bei dem die stimmberechtigten Bürger unmittelbar über eine politische oder rechtliche Frage entscheiden.
+
+## Geltung
+
+Geltung bezeichnet die rechtliche Verbindlichkeit und Wirksamkeit einer Verfassung oder einer verfassungsrechtlichen Norm innerhalb einer bestimmten Rechtsordnung.
