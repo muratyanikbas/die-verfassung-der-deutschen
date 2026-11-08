@@ -37,3 +37,7 @@ Eine *Volksabstimmung* ist ein Verfahren der direkten Demokratie, bei dem die st
 ## Geltung
 
 Geltung bezeichnet die rechtliche Verbindlichkeit und Wirksamkeit einer Verfassung oder einer verfassungsrechtlichen Norm innerhalb einer bestimmten Rechtsordnung.
+
+## Staatsprinzipien
+
+*Staatsprinzipien* sind die grundlegenden verfassungsrechtlichen Leitgrundsätze, die den Aufbau, die Organisation, die Ausübung und die Begrenzung staatlicher Macht sowie das Verhältnis zwischen Staat und Bevölkerung bestimmen. Sie bilden die rechtliche Grundlage der staatlichen Ordnung und sind für alle staatlichen Organe verbindlich.
