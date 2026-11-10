@@ -47,3 +47,7 @@ Geltung bezeichnet die rechtliche Verbindlichkeit und Wirksamkeit einer Verfassu
 Entmenschlichung bezeichnet jede Handlung, Maßnahme, Behandlung oder gesellschaftliche Bedingung, durch die einem Menschen seine Würde, seine Gleichwertigkeit oder seine grundlegenden menschlichen Eigenschaften und Bedürfnisse abgesprochen, missachtet oder systematisch beeinträchtigt werden.
 
 Hierzu zählen insbesondere Handlungen und Bedingungen, die Menschen erniedrigen, entwürdigen, objektivieren, ihrer Selbstbestimmung berauben oder ihre körperliche, psychische oder soziale Unversehrtheit schwerwiegend beeinträchtigen.
+
+## Normenkontrolle
+
+*Normenkontrolle* bezeichnet die rechtliche Überprüfung von Rechtsnormen, insbesondere Gesetzen und Rechtsverordnungen, auf ihre Vereinbarkeit mit höherrangigem Recht, vor allem mit der Verfassung.
