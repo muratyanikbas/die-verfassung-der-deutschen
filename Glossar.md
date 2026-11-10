@@ -41,3 +41,9 @@ Geltung bezeichnet die rechtliche Verbindlichkeit und Wirksamkeit einer Verfassu
 ## Staatsprinzipien
 
 *Staatsprinzipien* sind die grundlegenden verfassungsrechtlichen Leitgrundsätze, die den Aufbau, die Organisation, die Ausübung und die Begrenzung staatlicher Macht sowie das Verhältnis zwischen Staat und Bevölkerung bestimmen. Sie bilden die rechtliche Grundlage der staatlichen Ordnung und sind für alle staatlichen Organe verbindlich.
+
+## Entmenschlichung
+
+Entmenschlichung bezeichnet jede Handlung, Maßnahme, Behandlung oder gesellschaftliche Bedingung, durch die einem Menschen seine Würde, seine Gleichwertigkeit oder seine grundlegenden menschlichen Eigenschaften und Bedürfnisse abgesprochen, missachtet oder systematisch beeinträchtigt werden.
+
+Hierzu zählen insbesondere Handlungen und Bedingungen, die Menschen erniedrigen, entwürdigen, objektivieren, ihrer Selbstbestimmung berauben oder ihre körperliche, psychische oder soziale Unversehrtheit schwerwiegend beeinträchtigen.
