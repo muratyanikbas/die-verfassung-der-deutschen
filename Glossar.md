@@ -51,3 +51,7 @@ Hierzu zählen insbesondere Handlungen und Bedingungen, die Menschen erniedrigen
 ## Normenkontrolle
 
 *Normenkontrolle* bezeichnet die rechtliche Überprüfung von Rechtsnormen, insbesondere Gesetzen und Rechtsverordnungen, auf ihre Vereinbarkeit mit höherrangigem Recht, vor allem mit der Verfassung.
+
+## Staatsziel
+
+*Staatsziel* bezeichnet ein in der Verfassung festgelegtes, grundsätzlich verbindliches Ziel, dessen Verwirklichung dem Staat als dauerhafte Aufgabe aufgegeben wird.
