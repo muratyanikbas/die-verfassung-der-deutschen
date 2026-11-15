@@ -55,3 +55,7 @@ Hierzu zählen insbesondere Handlungen und Bedingungen, die Menschen erniedrigen
 ## Staatsziel
 
 *Staatsziel* bezeichnet ein in der Verfassung festgelegtes, grundsätzlich verbindliches Ziel, dessen Verwirklichung dem Staat als dauerhafte Aufgabe aufgegeben wird.
+
+## Unrechtsstaat
+
+Ein *Unrechtsstaat* ist ein Staat, in dem die Ausübung staatlicher Gewalt systematisch gegen grundlegende Prinzipien der Rechtsstaatlichkeit, der Gerechtigkeit und der Menschenrechte verstößt. Kennzeichnend sind insbesondere staatliche Willkür, der Missbrauch staatlicher Macht, die systematische Verletzung grundlegender Rechte, das Fehlen einer unabhängigen und wirksamen Rechtsprechung sowie die unzureichende Kontrolle und Ahndung staatlichen Unrechts. Recht und Gesetz dienen dabei nicht vorrangig der Begrenzung staatlicher Macht und dem Schutz des Einzelnen, sondern können selbst als Mittel der Unterdrückung und Herrschaftssicherung eingesetzt werden.
