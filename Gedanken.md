@@ -1,4 +1,4 @@
-Umstrittene Formulierungen sind zu vermeiden.
+Redaktionsgrundsatz: Umstrittene Formulierungen sind zu vermeiden.
 
 ---
 
