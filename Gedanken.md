@@ -13,3 +13,9 @@ Eine wissenschaftlich fundierte, interdisziplinäre Definition des Begriffs „E
 ---
 
 Muss die protokollarische Rangordnung in der neuen Verfassung ausdrücklich festgelegt werden, oder kann sie sich aus den Bestimmungen des Verfassungstextes ergeben?
+
+---
+
+## Recht auf gleichberechtigten Zugang zur medizinischen Versorgung
+
+Soziale Ungleichheit beim Zugang zur medizinischen Versorgung
