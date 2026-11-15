@@ -9,3 +9,7 @@ Ist eine verfassungsgebende Volksabstimmung das geeignete und rechtlich zulässi
 ---
 
 Eine wissenschaftlich fundierte, interdisziplinäre Definition des Begriffs „Entmenschlichung“ erarbeiten, die dessen psychologische, soziale, gesellschaftliche und rechtliche Dimensionen berücksichtigt und auf der Grundlage empirischer Erkenntnisse eine präzise Abgrenzung zu verwandten Begriffen ermöglicht.
+
+---
+
+Muss die protokollarische Rangordnung in der neuen Verfassung ausdrücklich festgelegt werden, oder kann sie sich aus den Bestimmungen des Verfassungstextes ergeben?
