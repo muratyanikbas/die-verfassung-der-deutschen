@@ -3,3 +3,5 @@
 Das ist eine neue Verfassung.
 
 Es soll eine umfassende und systematische Verfassungsanalyse, Verfassungsprüfung, Verfassungsevaluation, Konsistenzprüfung, Normenkontrolle, institutionelle Belastungsprüfung (Stresstest) und Folgenabschätzung der gesamten neuen Verfassung einschließlich aller dazugehörigen relevanten Texte durchgeführt werden.
+
+Simuliere eine Machtübergabe und werte die daraus gewonnenen Erkenntnisse aus.
