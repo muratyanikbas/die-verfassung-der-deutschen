@@ -81,3 +81,7 @@ Die *Konstitution* bezeichnet die grundlegende rechtliche und politische Ordnung
 ## Parlament
 
 Ein Parlament ist ein staatliches Vertretungsorgan, dessen Mitglieder in einer Demokratie grundsätzlich durch Wahlen bestimmt werden. Es dient der politischen Repräsentation der Bevölkerung und nimmt insbesondere Aufgaben der Gesetzgebung, der Kontrolle der Regierung sowie der Beratung und Entscheidung über grundlegende staatliche Angelegenheiten wahr. Seine Zusammensetzung, Befugnisse und Arbeitsweise werden durch die Verfassung und die geltenden Rechtsvorschriften bestimmt.
+
+## Machtübergabe
+
+Die *Machtübergabe* bezeichnet den Vorgang, bei dem die Ausübung politischer oder staatlicher Macht von einer Person, Regierung oder Institution auf eine andere übergeht. Sie kann insbesondere infolge von Wahlen, Amtswechseln oder verfassungsrechtlich vorgesehenen Verfahren erfolgen. In einem demokratischen Rechtsstaat erfolgt die Machtübergabe nach Maßgabe der Verfassung und der geltenden Gesetze unter Wahrung der staatlichen Kontinuität und der rechtlichen Ordnung.
