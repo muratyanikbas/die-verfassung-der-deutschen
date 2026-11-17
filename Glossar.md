@@ -85,3 +85,7 @@ Ein Parlament ist ein staatliches Vertretungsorgan, dessen Mitglieder in einer D
 ## Machtübergabe
 
 Die *Machtübergabe* bezeichnet den Vorgang, bei dem die Ausübung politischer oder staatlicher Macht von einer Person, Regierung oder Institution auf eine andere übergeht. Sie kann insbesondere infolge von Wahlen, Amtswechseln oder verfassungsrechtlich vorgesehenen Verfahren erfolgen. In einem demokratischen Rechtsstaat erfolgt die Machtübergabe nach Maßgabe der Verfassung und der geltenden Gesetze unter Wahrung der staatlichen Kontinuität und der rechtlichen Ordnung.
+
+## Vertreter des Volkes
+
+Ein *Vertreter des Volkes* ist eine Person, die durch Wahl oder ein anderes verfassungsrechtlich vorgesehenes Verfahren dazu berufen ist, die Interessen und Anliegen der Bevölkerung in staatlichen Organen wahrzunehmen. Vertreter des Volkes wirken im Rahmen ihrer Zuständigkeiten an der politischen Willensbildung, der Gesetzgebung und der Gestaltung staatlicher Angelegenheiten mit. Ihre Rechte, Pflichten und Befugnisse ergeben sich aus der Verfassung und den geltenden Gesetzen.
