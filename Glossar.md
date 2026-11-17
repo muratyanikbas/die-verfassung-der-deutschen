@@ -63,3 +63,9 @@ Ein *Unrechtsstaat* ist ein Staat, in dem die Ausübung staatlicher Gewalt syste
 ## Protokollarische Rangordnung
 
 Die *protokollarische Rangordnung* bestimmt, in welcher Reihenfolge Amtsträger und andere offizielle Vertreter bei staatlichen Anlässen berücksichtigt werden. Sie dient als Grundlage für die Reihenfolge der Begrüßungen und Ansprachen, die Sitzordnung und die Zuweisung von Ehrenplätzen. Ihre Anwendung kann sich nach dem Anlass und dem Gastgeber richten.
+
+## Konstrukte einer Verfassung
+
+Als *Konstrukte einer Verfassung* bezeichnet man die gedanklichen, rechtlichen und institutionellen Strukturen, aus denen eine Verfassung aufgebaut ist. Sie bestimmen die grundlegende Ordnung des Staates, die Verteilung und Begrenzung staatlicher Gewalt, die Organisation seiner Institutionen sowie die Rechte und Pflichten der Bürger.
+
+Beispiele: Staatsform, Regierungsform, Gewaltenteilung, Grundrechte, Rechtsstaatsprinzip, Demokratieprinzip und Verfassungsorgane.
