@@ -73,3 +73,7 @@ Beispiele: Staatsform, Regierungsform, Gewaltenteilung, Grundrechte, Rechtsstaat
 ## Konstitution (Synonym für Verfassung)
 
 Die *Konstitution* bezeichnet die grundlegende rechtliche und politische Ordnung eines Staates. Sie bestimmt dessen Staatsform, die Organisation und Ausübung staatlicher Gewalt, die Zuständigkeiten der Staatsorgane sowie die grundlegenden Rechte und Pflichten im Verhältnis zwischen Staat und Bevölkerung. Im staatsrechtlichen Sinne ist Konstitution ein Synonym für Verfassung.
+
+## Konstituieren (Vorgang)
+
+*Konstituieren* bezeichnet den Vorgang, durch den sich etwas bildet, begründet, organisiert oder als rechtlich beziehungsweise institutionell bestehende Einheit etabliert.
