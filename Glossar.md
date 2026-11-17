@@ -69,3 +69,7 @@ Die *protokollarische Rangordnung* bestimmt, in welcher Reihenfolge Amtsträger 
 Als *Konstrukte einer Verfassung* bezeichnet man die gedanklichen, rechtlichen und institutionellen Strukturen, aus denen eine Verfassung aufgebaut ist. Sie bestimmen die grundlegende Ordnung des Staates, die Verteilung und Begrenzung staatlicher Gewalt, die Organisation seiner Institutionen sowie die Rechte und Pflichten der Bürger.
 
 Beispiele: Staatsform, Regierungsform, Gewaltenteilung, Grundrechte, Rechtsstaatsprinzip, Demokratieprinzip und Verfassungsorgane.
+
+## Konstitution (Synonym für Verfassung)
+
+Die *Konstitution* bezeichnet die grundlegende rechtliche und politische Ordnung eines Staates. Sie bestimmt dessen Staatsform, die Organisation und Ausübung staatlicher Gewalt, die Zuständigkeiten der Staatsorgane sowie die grundlegenden Rechte und Pflichten im Verhältnis zwischen Staat und Bevölkerung. Im staatsrechtlichen Sinne ist Konstitution ein Synonym für Verfassung.
