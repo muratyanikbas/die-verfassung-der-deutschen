@@ -77,3 +77,7 @@ Die *Konstitution* bezeichnet die grundlegende rechtliche und politische Ordnung
 ## Konstituieren (Vorgang)
 
 *Konstituieren* bezeichnet den Vorgang, durch den sich etwas bildet, begründet, organisiert oder als rechtlich beziehungsweise institutionell bestehende Einheit etabliert.
+
+## Parlament
+
+Ein Parlament ist ein staatliches Vertretungsorgan, dessen Mitglieder in einer Demokratie grundsätzlich durch Wahlen bestimmt werden. Es dient der politischen Repräsentation der Bevölkerung und nimmt insbesondere Aufgaben der Gesetzgebung, der Kontrolle der Regierung sowie der Beratung und Entscheidung über grundlegende staatliche Angelegenheiten wahr. Seine Zusammensetzung, Befugnisse und Arbeitsweise werden durch die Verfassung und die geltenden Rechtsvorschriften bestimmt.
