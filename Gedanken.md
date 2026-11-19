@@ -23,3 +23,7 @@ Soziale Ungleichheit beim Zugang zur medizinischen Versorgung
 ---
 
 Aufnahme des besonderen Schutzes psychisch erkrankter Menschen sowie der Prävention psychischer Erkrankungen in die neue Verfassung.
+
+---
+
+Wahrung der nationalen Souveränität?
