@@ -89,3 +89,15 @@ Die *Machtübergabe* bezeichnet den Vorgang, bei dem die Ausübung politischer o
 ## Vertreter des Volkes
 
 Ein *Vertreter des Volkes* ist eine Person, die durch Wahl oder ein anderes verfassungsrechtlich vorgesehenes Verfahren dazu berufen ist, die Interessen und Anliegen der Bevölkerung in staatlichen Organen wahrzunehmen. Vertreter des Volkes wirken im Rahmen ihrer Zuständigkeiten an der politischen Willensbildung, der Gesetzgebung und der Gestaltung staatlicher Angelegenheiten mit. Ihre Rechte, Pflichten und Befugnisse ergeben sich aus der Verfassung und den geltenden Gesetzen.
+
+## Volksinitiative
+
+**Volksinitiative:** Eine Volksinitiative ist ein Instrument der direkten Demokratie, mit dem Bürgerinnen und Bürger ein politisches Anliegen oder einen Gesetzesvorschlag in das parlamentarische Verfahren einbringen können.
+
+## Volksbegehren
+
+**Volksbegehren:** Ein Volksbegehren ist ein Instrument der direkten Demokratie, mit dem Bürgerinnen und Bürger durch die Sammlung einer gesetzlich vorgeschriebenen Anzahl von Unterschriften die Behandlung eines bestimmten Gesetzesvorhabens verlangen und gegebenenfalls einen Volksentscheid herbeiführen können.
+
+## Volksentscheid
+
+**Volksentscheid:** Ein Volksentscheid ist eine verbindliche Abstimmung im Rahmen der direkten Demokratie, bei der die stimmberechtigten Bürgerinnen und Bürger unmittelbar über eine politische Sachfrage oder eine Gesetzesvorlage entscheiden.
