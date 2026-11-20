@@ -101,3 +101,7 @@ Ein *Vertreter des Volkes* ist eine Person, die durch Wahl oder ein anderes verf
 ## Volksentscheid
 
 **Volksentscheid:** Ein Volksentscheid ist eine verbindliche Abstimmung im Rahmen der direkten Demokratie, bei der die stimmberechtigten Bürgerinnen und Bürger unmittelbar über eine politische Sachfrage oder eine Gesetzesvorlage entscheiden.
+
+## Parlamentsentscheid
+
+Parlamentsentscheid: Ein Parlamentsentscheid ist eine Entscheidung, die von einem Parlament im Rahmen seiner verfassungsmäßigen Zuständigkeiten durch Abstimmung seiner Abgeordneten getroffen wird.
