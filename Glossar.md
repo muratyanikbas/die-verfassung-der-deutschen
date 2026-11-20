@@ -105,3 +105,7 @@ Ein *Vertreter des Volkes* ist eine Person, die durch Wahl oder ein anderes verf
 ## Parlamentsentscheid
 
 Parlamentsentscheid: Ein Parlamentsentscheid ist eine Entscheidung, die von einem Parlament im Rahmen seiner verfassungsmäßigen Zuständigkeiten durch Abstimmung seiner Abgeordneten getroffen wird.
+
+## Systemfrage
+
+Die Systemfrage betrifft die grundsätzliche Ausgestaltung der politischen und staatlichen Ordnung, insbesondere die Frage, ob das bestehende politische System beibehalten, grundlegend verändert oder durch ein anderes ersetzt werden soll.
